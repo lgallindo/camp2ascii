@@ -2,3 +2,6 @@
 bin/camp2ascii
 *~
 .tmp
+.gitignore
+bin/40124.ts_data-05-04-2013.dat
+bin/40124.ts_data-05-04-2013.asc
